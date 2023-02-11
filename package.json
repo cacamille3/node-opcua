@@ -107,7 +107,7 @@
     "mocha-clean": "^1.0.0",
     "node-jsrsasign": "^0.0.7",
     "node-opcua-crypto": "0.0.22",
-    "node-opcua-pki": "1.0.0-beta.2",
+    "node-opcua-pki": "1.5.5",
     "once": "^1.4.0",
     "progress": "^2.0.0",
     "q": "^1.5.1",
