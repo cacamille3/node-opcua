@@ -67,7 +67,7 @@
     "eyes": "^0.1.8",
     "jsdoc": "^3.5.5",
     "litpro": "^2.0.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "mocha-lcov-reporter": "1.3.0",
     "nyc": "^13.0.1",
     "request": "^2.88.0",
