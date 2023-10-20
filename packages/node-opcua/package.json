@@ -54,7 +54,7 @@
         "node-opcua-utils": "^0.4.6",
         "node-opcua-variant": "^0.4.6",
         "node-opcua-vendor-diagnostic": "^0.4.6",
-        "semver": "^7.5.2"
+        "semver": "^5.7.2"
     },
     "devDependencies": {
         "should": "13.2.3"
